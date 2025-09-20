@@ -35,6 +35,42 @@ This guide explains:
   - Store of value against inflation  
   - Financial inclusion for the unbanked  
 
+ Table des Matières Complète
+
+1. Introduction à AfricaWeb3Hub - Notre mission et vision
+2. Fondamentaux Blockchain & Crypto - Concepts de base
+3. Importance des Exchanges Cryptos - Guide des plateformes d'échange
+4. KYC - Know Your Customer - Processus de vérification d'identité
+5. Trading et Copy Trading - Strategies de trading
+6. Staking et Programmes Earn - Revenus passifs
+7. Bots de Trading Avancés - Automatisation
+8. Sécurité et Bonnes Pratiques - Protection des actifs
+9. Ressources Utiles - Outils et références
+
+🔐 Guide KYC - Know Your Customer
+
+Le KYC (Know Your Customer) est un processus crucial pour utiliser les exchanges régulémentés. Cette procédure de vérification d'identité permet de:
+
+📋 Pourquoi le KYC est Important:
+
+· ✅ Conformité réglementaire - Lutte contre le blanchiment d'argent
+· ✅ Protection des utilisateurs - Sécurité renforcée des comptes
+· ✅ Accès complet aux fonctionnalités des exchanges
+· ✅ Limites de trading augmentées
+
+📝 Documents Requis:
+
+· Carte d'identité nationale ou passeport
+· Justificatif de domicile (facture récente)
+· Selfie avec pièce d'identité (parfois requis)
+
+🚀 Processus KYC Typique:
+
+1. Création de compte sur l'exchange
+2. Soumission des documents numérisés
+3. Vérification automatique ou manuelle
+4. Confirmation sous 24-72 heures
+5. Accès complet aux services
 ---
 
 ## 🔹 Understanding Blockchain
