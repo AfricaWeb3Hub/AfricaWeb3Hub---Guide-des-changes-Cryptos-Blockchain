@@ -138,12 +138,12 @@ Modern exchanges offer more than just trading:
 ---
 
 ## 🔹 Resources & Downloads
-📖 Full Educational Guide (PDF): [Insert Your Link Here]  
+📖 Full Educational Guide https://github.com/Prince2993/web3-initiation-blockchain-training
 
 🌍 Africaweb3hub Channels:  
-- Telegram: [Insert Link]  
-- WhatsApp: [Insert Link]  
-- Website: [Insert Link]  
+- Telegram:   https://t.me/africaweb3hub
+- WhatsApp:  https://whatsapp.com/channel/0029VbAlF1b4NVifro5AMV3b
+- Website: [Coming soon]
 
 📖 Learn More:  
 - [KuCoin Exchange](https://www.kucoin.com)  
